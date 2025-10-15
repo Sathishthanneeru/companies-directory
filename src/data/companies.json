@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "TechNova", "location": "Chennai", "industry": "Software" },
+  { "id": 2, "name": "MediLife", "location": "Hyderabad", "industry": "Healthcare" },
+  { "id": 3, "name": "EcoBuild", "location": "Bangalore", "industry": "Construction" },
+  { "id": 4, "name": "FinCore", "location": "Pune", "industry": "Finance" },
+  { "id": 5, "name": "AgroNext", "location": "Delhi", "industry": "Agriculture" }
+]
