@@ -195,13 +195,3 @@
   background-color: #28a6b1;
 }
 
-
-.login-btn {
-  background-color: #ffffff;
-  color: #36d1dc;
-  border: 1px solid #36d1dc;
-}
-
-.login-btn:hover {
-  background-color: #f0f0f0;
-}

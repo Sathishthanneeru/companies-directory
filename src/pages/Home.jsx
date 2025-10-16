@@ -67,8 +67,6 @@ const Home = () => {
           >
             Join Now
           </a>
-
-          <button className="btn login-btn">Login</button>
         </div>
       </div>
 
